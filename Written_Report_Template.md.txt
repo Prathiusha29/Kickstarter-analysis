@@ -1,0 +1,56 @@
+# Kickstarting with Excel
+
+Creating Theater Outcomes by launch Date
+
+## Overview of Project
+
+This project is conceived to determine how successful was the campaigns about the funding goals and the outcome for the play.
+
+### Purpose
+
+The purpose is to find the outcomes by launch dates for theater and the outcome based on goals by play.
+
+
+## Analysis and Challenges
+
+To identify the percentage of successful and failed campaigns.
+
+
+### Analysis of Outcomes Based on Launch Date
+
+We were more successful theater shows than the failed and canceled combined.
+
+
+### Analysis of Outcomes Based on Goals
+
+In terms of number, the total of successful plays (694) is more than failed (353).  On the other hand, the percentage of the total failed (654%) plays were more than the successful plays (546%). There were no canceled plays.
+
+
+### Challenges and Difficulties Encountered
+
+To categorize the successful and failed plays depending on their goals and pledged values.
+
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+(a) In the month of May and June (second quarter), the plays were more successful.
+(b) Comparatively the second and third quarters have more failed plays.  Overall, the failed plays were lesser than that of successful plays.
+
+- What can you conclude about the Outcomes based on Goals?
+
+(a) There was no cancelation of plays at all.
+
+(b) The percentage of failed was more than successful plays.  And there was a 100% failure in the category of 45000 to 49999 regarding goal.
+
+- What are some limitations of this dataset?
+
+Viewer details based on age group
+
+- What are some other possible tables and/or graphs that we could create?
+
+Based on Countries
+Name of the plays that were successful / failed
+Based on Deadline
+
